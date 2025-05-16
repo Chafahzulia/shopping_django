@@ -1,1 +1,1 @@
-# AI_code_extractor_project
+# AI_shopping_prediction_project
